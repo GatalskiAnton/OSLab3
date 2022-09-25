@@ -1,3 +1,0 @@
-/home/antoshka/CLionProjects/Lab3/main/cmake-build-debug/CMakeFiles/main.dir
-/home/antoshka/CLionProjects/Lab3/main/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/antoshka/CLionProjects/Lab3/main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
