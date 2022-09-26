@@ -1,5 +1,7 @@
 #include <ostream>
 
+
+
 namespace number
 {
     template<typename T>
