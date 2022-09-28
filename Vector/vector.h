@@ -2,7 +2,6 @@
 #include "number.h"
 #include <ostream>
 
-
 using namespace number;
 
 namespace vector
