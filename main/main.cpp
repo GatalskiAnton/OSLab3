@@ -3,7 +3,6 @@
 
 int main()
 {
-
     Number<int> one = ONE;
     vector::Vector<int> ort = vector::ORT_VECTOR;
     vector::Vector<int> vec1(Number<int>(10), Number<int>(15));
